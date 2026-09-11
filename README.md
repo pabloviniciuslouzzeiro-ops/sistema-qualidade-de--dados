@@ -41,3 +41,5 @@ formulário pelo participante.
 • RNF03 (Usabilidade / Acessibilidade): A interface do questionário deve ser
 totalmente responsiva, garantindo visualização e preenchimento adequados em
 dispositivos móveis (smartphones e tablets).
+
+Desenvolvedor Responsável: Pablo VInicius
