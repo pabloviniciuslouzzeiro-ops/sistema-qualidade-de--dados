@@ -1,0 +1,19 @@
+"nome_squad":"Gerenciamento_Frequencia",
+"versao_api":"1.00",
+"data_do_registo":"15/09/2026",
+"registro presença":[
+{
+	"id_frequencia":"10",
+	"aluno": "Pedro",
+	"horario_fixo":"10:50"
+	"stattus_presença":"Presente"
+	"campos nulos":0
+},
+{
+	"id_frequencia":"11",
+	"aluno":"Maria",
+	"horario_fixo":"10:50"
+	"stattus_preseça":"Falta"
+	"campos nulos":0
+}
+
