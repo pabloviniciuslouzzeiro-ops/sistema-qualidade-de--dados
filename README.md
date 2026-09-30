@@ -1,7 +1,7 @@
 Alunos:
-Helio Soares
+Helio Soares , Heitor Carvalho , Pablo Vinicius , Hudson Bruno
 
-Pablo Vinicius
+
 
 Para a gestão de presença da escola EFG, a estruturação inicial do projeto atende
 diretamente aos fluxos de formulários, confirmações e relatórios.
@@ -42,6 +42,4 @@ formulário pelo participante.
 totalmente responsiva, garantindo visualização e preenchimento adequados em
 dispositivos móveis (smartphones e tablets).
 
-desenvolvedor reponsavel: paulo fuhr
-
-teste_helio
+desenvolvedor reponsavel: Helio Soares , Heitor Carvalho , Pablo Vinicius , Hudson Bruno
