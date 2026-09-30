@@ -1,0 +1,14 @@
+{ 
+"cliente_marketing": " Revitalizar", 
+"versao_briefing": "1.0", 
+"dados_entrada_usuario": { 
+"campo_1": "Ex: Nome do Lead/ Edson ", 
+"campo_2": "Ex: Orcamento_Mensal_500,00R$", 
+"campo_3": "Ex: setembro-2026" 
+}, 
+"dados_saida_sistema": { 
+"resultado_processado": "Ex: LEAD_QUALIFICADO_ALTO_VALOR", 
+"pontuacao_score": 85, 
+"recomendacao_proximo_passo": "Encaminhar imediatamente para equipe de vendas pelo 
+WhatsApp" 
+} 
